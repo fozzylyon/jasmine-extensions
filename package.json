@@ -1,0 +1,15 @@
+{
+  "name": "jasmine-extensions",
+  "version": "0.0.1",
+  "description": "A set of useful jasmine extensions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jasmine",
+    "extensions"
+  ],
+  "author": "James Lyon",
+  "license": "BSD-2-Clause"
+}
